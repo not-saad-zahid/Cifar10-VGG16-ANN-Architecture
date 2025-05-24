@@ -58,8 +58,8 @@ The model used is a modified version of **VGG16** tailored to handle 32x32 input
 ## 📌 How to Run
 
 1. Clone the repository:
-   ```
    bash
+   ```
    git clone https://github.com/not-saad-zahid/Cifar10-VGG16-ANN-Architecture.git
    cd cifar10-vgg16
    ```
